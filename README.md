@@ -11,7 +11,7 @@ The first task is to retrieve data from [USGS GeoJSON Feeds](https://earthquake.
 
 The second task is to plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. This dataset can be found at https://github.com/fraxen/tectonicplates. The map should include several basemaps and layer controls along with a legend and useful data popups.
 
-##### Note: 
+### Note: 
 To view final project - You'll need to use python -m http.server to run the visualization. This will host the page at localhost:8000 in your web browser.
 
 You will also need a leaflet API key from https://www.mapbox.com/ (can use the default public token once you have an account). Add this key to the config.js file.
